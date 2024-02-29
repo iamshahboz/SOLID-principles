@@ -1,3 +1,5 @@
+# you should not do
+
 from abc import ABC, abstractmethod 
 
 class Printer(ABC):
